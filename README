@@ -1,0 +1,2 @@
+This repo is going to be the place where our config for all of our nix systems (nixos on various platforms, nix in wsl, etc) are hammered out and centralized. This repo has been initally based on @https://github.com/librephoenix/nixos-config  and I have put its contents on 
+

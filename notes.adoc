@@ -1,0 +1,6 @@
+sudo cp -r /etc/nixos/* /home/ethan/Documents/GitHub/Nix-Config/
+
+
+sudo rsync -a --delete /home/ethan/Documents/GitHub/Nix-Config/ /etc/nixos/
+
+Always test with --dry-run flag first to see what changes will occur
